@@ -13,11 +13,12 @@
     }
   ],
   "properties": {
-    "files":
+    "files":[
       {
         "uri": "https://raw.githubusercontent.com/Alsabbagh16/test/main/this-is-a-test-image.png",
         "type": "image/png"
-      },
+      }
+	    ],
 		"category": "image",
 	    "creators": [
       {
