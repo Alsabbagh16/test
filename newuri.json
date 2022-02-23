@@ -1,0 +1,29 @@
+{
+  "name": "TestNFT4451",
+  "symbol": "tst",
+  "description": "This is TEST 4451",
+  "seller_fee_basis_points": 1000,
+  "image": "https://raw.githubusercontent.com/Alsabbagh16/test/main/this-is-a-test-image.png",
+  "external_url": "https://www.test4451.com",
+  "edition": 0,
+  "attributes": [
+    {
+      "trait_type": "test trait",
+      "value": "test "
+    }
+  ],
+  "properties": {
+    "files":
+      {
+        "uri": "https://raw.githubusercontent.com/Alsabbagh16/test/main/this-is-a-test-image.png",
+        "type": "image/png"
+      },
+		"category": "image",
+	    "creators": [
+      {
+        "address": "6e5H4V1AVDYvgvhUZFQsRVm3vfNFTUWSZTmo8rWyabuF",
+        "share": 100
+      }
+    ]
+  }
+}
