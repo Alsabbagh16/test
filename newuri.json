@@ -1,11 +1,13 @@
 {
   "name": "TestNFT4451",
   "symbol": "tst",
-  "description": "This is TEST 4451",
+  "description": "This is a test... This was a test for Bahrainees NFT...",
   "seller_fee_basis_points": 1000,
   "image": "https://raw.githubusercontent.com/Alsabbagh16/test/main/this-is-a-test-image.png",
-  "external_url": "https://www.test4451.com",
+  "external_url": "https://thisisonlyatest.test",
   "edition": 0,
+"collection": {"name": "Test BHR",
+"family": "Palm tests"},
   "attributes": [
     {
       "trait_type": "test trait",
