@@ -6,14 +6,16 @@
   "image": "https://raw.githubusercontent.com/Alsabbagh16/test/main/this-is-a-test-image.png",
   "external_url": "https://thisisonlyatest.test",
   "edition": 0,
-"collection": {"name": "Test BHR",
-"family": "Palm tests"},
   "attributes": [
     {
       "trait_type": "test trait",
       "value": "test "
     }
   ],
+	"collection": {
+		"name": "Test BHR",
+		"family": "Palm tests"
+	},
   "properties": {
     "files":[
       {
