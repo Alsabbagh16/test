@@ -1,0 +1,29 @@
+{
+  "name": "Gold Loyalty Card",
+  "symbol": "PALM",
+  "description": "Gold Loyalty Card, could be obtained from events, airdrops and more... May grant access to presales and whitelist.",
+  "seller_fee_basis_points": 1000,
+  "image": "https://gateway.pinata.cloud/ipfs/QmNysMLPuVhCLcWWQAxhG5PHQmuox9KRbw4DSm3Xfr5tDd",
+  "external_url": "https://www.palmcrypto.app",
+  "edition": 10,
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Gold"}
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://gateway.pinata.cloud/ipfs/QmNysMLPuVhCLcWWQAxhG5PHQmuox9KRbw4DSm3Xfr5tDd",
+        "type": "image/gif"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "6e5H4V1AVDYvgvhUZFQsRVm3vfNFTUWSZTmo8rWyabuF",
+        "share": 100
+      }
+    ]
+  }
+}
