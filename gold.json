@@ -3,7 +3,8 @@
   "symbol": "PALM",
   "description": "Gold Loyalty Card, could be obtained from events, airdrops and more... May grant access to presales and whitelist.",
   "seller_fee_basis_points": 1000,
-  "image": "https://gateway.pinata.cloud/ipfs/QmNysMLPuVhCLcWWQAxhG5PHQmuox9KRbw4DSm3Xfr5tDd",
+  "image": "https://bafybeidt76abntlx3hfqnhtdp5453fffi3d4lexacqimgftrdrmkwtvwlu.ipfs.nftstorage.link",
+  "uri": "https://bafkreiaswmriiqbzaqcrsdt4hbof27wmxr475e4zkikqp3gfcwlkb3wpbe.ipfs.nftstorage.link/",
   "external_url": "https://www.palmcrypto.app",
   "edition": 10,
   "attributes": [
@@ -14,14 +15,14 @@
   "properties": {
     "files": [
       {
-        "uri": "https://gateway.pinata.cloud/ipfs/QmNysMLPuVhCLcWWQAxhG5PHQmuox9KRbw4DSm3Xfr5tDd",
+        "uri": "https://bafybeidt76abntlx3hfqnhtdp5453fffi3d4lexacqimgftrdrmkwtvwlu.ipfs.nftstorage.link",
         "type": "image/gif"
       }
     ],
     "category": "image",
     "creators": [
       {
-        "address": "6e5H4V1AVDYvgvhUZFQsRVm3vfNFTUWSZTmo8rWyabuF",
+        "address": "BHRTKP8wTFZYTpHpfjc8Xqcr5bXd3W741UZ3GBtNgHFxF",
         "share": 100
       }
     ]
