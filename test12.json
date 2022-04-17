@@ -1,0 +1,70 @@
+{
+    "name": "Bahrainees #121",
+    "symbol": "BHR",
+    "description":"did this update ?",
+    "seller_fee_basis_points": 1000,
+    "image": "https://www.arweave.net/PlJIKvGhx3e2dnN-_qrUo6Vf6f5kX4K8L7xgeV7Qz6o?ext=png",
+    "external_url": "https://www.BahraineesNFT.app",
+    "edition": 121,
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Abstract 17"
+        },
+        {
+            "trait_type": "body",
+            "value": "Skin1"
+        },
+        {
+            "trait_type": "chin",
+            "value": "chin"
+        },
+        {
+            "trait_type": "ear",
+            "value": "ear"
+        },
+        {
+            "trait_type": "nose",
+            "value": "Nose 3"
+        },
+        {
+            "trait_type": "eyebrows",
+            "value": "noeyebrow"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Eyes 12"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Hair 5"
+        },
+        {
+            "trait_type": "Facial hair",
+            "value": "beared"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "mouth6"
+        },
+        {
+            "trait_type": "Cloth",
+            "value": "Short Sleeve"
+        }
+    ],
+    "properties": {
+        "files": [
+            {
+                "uri": "https://www.arweave.net/PlJIKvGhx3e2dnN-_qrUo6Vf6f5kX4K8L7xgeV7Qz6o?ext=png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "6e5H4V1AVDYvgvhUZFQsRVm3vfNFTUWSZTmo8rWyabuF",
+                "share": 100
+            }
+        ]
+    }
+}
